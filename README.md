@@ -20,7 +20,20 @@ O projeto "TechFit Academy" visa disponibilizar aos usuários acesso aos serviç
 | Tarciso Filho Miranda Dias                                                          | [tarcisof](https://github.com/tarcisof)       |
 | [Link do repositório](https://github.com/assisDaniel/ES-2024_1-TechFit-Academy.git) |                                               |
 
-##
+## Grupo 4:
+
+### O projeto "BarberBooker" é uma plataforma online projetada para simplificar o agendamento de horários em barbearias. Com o BarberBooker, os clientes têm a conveniência de agendar seus cortes de cabelo, barbas e outros serviços de barbearia com apenas alguns cliques, eliminando a necessidade de telefonemas ou visitas pessoais à barbearia:
+<br>
+
+| Nome                                                                                | Github                                        |
+|-------------------------------------------------------------------------------------|-----------------------------------------------|
+| João Gabriel Alves de Souza                                                    | [Carecovisk](https://github.com/Carecovisk) |
+| Murilo Rodrigues Perira                                                              | [murilortu](https://github.com/murilortu) |
+| Eliézer Alencar Moreira                                                                | [Liezy](https://github.com/Liezy)       |
+| Daniel Reis Aruda Sales                                                          | [Danielpyreis](https://github.com/Danielpyreis)       |
+| Matheus Moretti Cabral                                                          | [MMorettiC](https://github.com/MMorettiC)       |
+| [Link do repositório](https://github.com/murilortu/BarberBooker.git) |                                               |
+
 
 ## Grupo 5:
 
