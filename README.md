@@ -50,3 +50,20 @@ A "BudStrike" é o seu destino exclusivo para dispositivos eletrônicos de últi
 |Laura Barbosa Henrique|[Laura](https://github.com/tinywin)|
 |Antonio André Barcelos Chagas|[André](https://github.com//andrebarceloschagas)|
 [Link do repositório](https://github.com/Iohanan-Cephas/bud-strike-eng-soft-2024-1)|
+
+
+## Grupo 6:
+
+### Descrição do produto:
+O PostMe é uma plataforma inovadora que permite aos usuários expressarem-se livremente, publicando fotos e textos em um feed dinâmico e interativo. Seja você um fotógrafo amador querendo compartilhar suas últimas capturas, um escritor aspirante buscando uma audiência para seus textos, ou simplesmente alguém que deseja compartilhar pedaços do seu dia-a-dia, o PostMe é o lugar perfeito para você.
+
+<br>
+
+|Nome|Github|
+|---|---|
+|Caio Christhian Lopes Silva|[Caio Christhian](https://github.com/CaioChristhian)|
+|Cayke Daniel Pereira Veras|[Cayke Daniel](https://github.com/cayke1)|
+|Henrique Noronha Fernandes|[Henrique Noronha](https://github.com/henrique-noronha)|
+|Eduardo Henrique Coelho Ramos|[Eduardo Henrique](https://github.com/KiwiProgamador)|
+|Ykaro Silva|[Ykaro Silva](https://github.com/ykarosilva)|
+[Link do repositório](https://github.com/CaioChristhian/ES-2024_1-PostMe)|
