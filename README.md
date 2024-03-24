@@ -21,3 +21,19 @@ O projeto "TechFit Academy" visa disponibilizar aos usuários acesso aos serviç
 | [Link do repositório](https://github.com/assisDaniel/ES-2024_1-TechFit-Academy.git) |                                               |
 
 ##
+
+## Grupo 5:
+
+### Descrição do produto:
+A "BudStrike" é o seu destino exclusivo para dispositivos eletrônicos de última geração. Nosso compromisso é proporcionar uma experiência de compra excepcional, impulsionando a velocidade de processamento de dados e garantindo entregas rápidas aos nossos clientes. Estamos constantemente refinando nossos processos para atingir a excelência, dando passos calculados em direção ao nosso objetivo.
+
+<br>
+
+|Nome|Github|
+|---|---|
+|João Pedro Oliveira Barbosa|[João Pedro](https://github.com/Iohanan-Cephas)|
+|Wanderson Almeida de Mello|[Wanderson](https://github.com/sadMello)|
+|Micael Ribeiro dos Santos|[Micael](https://github.com/messiribeiro)|
+|Laura Barbosa Henrique|[Laura](https://github.com/tinywin)|
+|Antonio André Barcelos Chagas|[André](https://github.com//andrebarceloschagas)|
+[Link do repositório](https://github.com/Iohanan-Cephas/bud-strike-eng-soft-2024-1)|
