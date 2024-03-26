@@ -22,7 +22,8 @@ O projeto "TechFit Academy" visa disponibilizar aos usuários acesso aos serviç
 
 ## Grupo 4:
 
-### O projeto "BarberBooker" é uma plataforma online projetada para simplificar o agendamento de horários em barbearias. Com o BarberBooker, os clientes têm a conveniência de agendar seus cortes de cabelo, barbas e outros serviços de barbearia com apenas alguns cliques, eliminando a necessidade de telefonemas ou visitas pessoais à barbearia:
+#### Descrição do produto:
+O projeto BarberBooker é uma plataforma online projetada para simplificar o agendamento de horários em barbearias. Com o BarberBooker, os clientes têm a conveniência de agendar seus cortes de cabelo, barbas e outros serviços de barbearia com apenas alguns cliques, eliminando a necessidade de telefonemas ou visitas pessoais à barbearia:
 <br>
 
 | Nome                                                                                | Github                                        |
