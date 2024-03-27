@@ -10,10 +10,10 @@
 
 | Nome                                                                                | Github                                        |
 |-------------------------------------------------------------------------------------|-----------------------------------------------|
-| Daniel Barbosa de Assis Costa                                                       | [Brenoborgesbr](https://github.com/Brenoborgesbr) |
-| Danilo Oliveira Maciel                                                              | [gabrielbdsm](https://github.com/gabrielbdsm) |
-| Pablo Pereira Brito                                                                 | [Hatilancaio](https://github.com/Hatilancaio) |
-| Tarciso Filho Miranda Dias                                                          | [uGonzaguinha](https://github.com/uGonzaguinha) |
+| Breno Borges                                                       | [Brenoborgesbr](https://github.com/Brenoborgesbr) |
+| Gabriel Barbosa                                                              | [gabrielbdsm](https://github.com/gabrielbdsm) |
+| Hátilan Caio Alves Fontes                                                                 | [Hatilancaio](https://github.com/Hatilancaio) |
+| Gustavo Gonzaga                                                          | [uGonzaguinha](https://github.com/uGonzaguinha) |
 | [Link do repositório](https://github.com/CaesarCrew/Eng_Soft-Grupo1) |
 
 ## Grupo 2:
