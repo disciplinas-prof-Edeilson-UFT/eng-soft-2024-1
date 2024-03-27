@@ -16,6 +16,20 @@
 | Tarciso Filho Miranda Dias                                                          | [uGonzaguinha](https://github.com/uGonzaguinha) |
 | [Link do repositório](https://github.com/assisDaniel/ES-2024_1-TechFit-Academy.git) |                                               |
 
+## Grupo 2:
+
+#### Descrição do produto:
+O projeto Ebook Wizard é uma plataforma de comércio eletrônico projetada para usuários que desejam comprar livros de forma conveniente e acessível. Com uma vasta seleção de títulos em diferentes gêneros e categorias, os usuários podem navegar, pesquisar e comprar livros facilmente.
+<br>
+
+| Nome                                                                                | Github                                        |
+|-------------------------------------------------------------------------------------|-----------------------------------------------|
+| Caio Goncalvez Nascimento                                                    | [graccios](https://github.com/graccius) |
+| Joao Victor Melo do Nascimento                                                             | [joaovictormelor](https://github.com/joaovictormelor) |
+| Almir Daniel Melo Coelho                                                                | [ad-melo](https://github.com/ad-melo)       |
+| Vinicius Wanderley Arruda                                                          | [ViiniDev](https://github.com/ViiniDev)       |
+| Vinicius Gabriel da Silva Santos                                                          | [viniciuS2S2](https://github.com/viniciuS2S2)       |
+| [Link do repositório](https://github.com/graccius/E-Book-Wizard) |                                               |            
 ## Grupo 3:
 
 #### Descrição do produto:
