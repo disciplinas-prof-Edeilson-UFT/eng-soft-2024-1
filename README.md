@@ -14,7 +14,7 @@
 | Danilo Oliveira Maciel                                                              | [gabrielbdsm](https://github.com/gabrielbdsm) |
 | Pablo Pereira Brito                                                                 | [Hatilancaio](https://github.com/Hatilancaio) |
 | Tarciso Filho Miranda Dias                                                          | [uGonzaguinha](https://github.com/uGonzaguinha) |
-| [Link do repositório](https://github.com/assisDaniel/ES-2024_1-TechFit-Academy.git) |                                               |
+| [Link do repositório](https://github.com/CaesarCrew/Eng_Soft-Grupo1) |
 
 ## Grupo 2:
 
