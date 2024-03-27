@@ -14,6 +14,7 @@
 | Gabriel Barbosa                                                              | [gabrielbdsm](https://github.com/gabrielbdsm) |
 | Hátilan Caio Alves Fontes                                                                 | [Hatilancaio](https://github.com/Hatilancaio) |
 | Gustavo Gonzaga                                                          | [uGonzaguinha](https://github.com/uGonzaguinha) |
+| João Pedro Ribeiro Dias Moraes                                               | [CaesarCrew](https://github.com/CaesarCrew) |
 | [Link do repositório](https://github.com/CaesarCrew/Eng_Soft-Grupo1) |
 
 ## Grupo 2:
