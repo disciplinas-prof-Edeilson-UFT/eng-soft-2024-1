@@ -6,15 +6,18 @@
 ---
 
 ## Grupo 1:
+
+#### Descrição do produto:
+A HealthConnect, é um portal personalizado para atendimento médico conveniente e eficiente. Projetado pensando no estilo de vida agitado da atualidade, o HealthConnect simplifica o processo de agendamentos, ajudando você a manter-se organizado no controle de sua jornada de saúde.
 <br>
 
-| Nome                                                                                | Github                                        |
-|-------------------------------------------------------------------------------------|-----------------------------------------------|
-| Breno Borges                                                       | [Brenoborgesbr](https://github.com/Brenoborgesbr) |
-| Gabriel Barbosa                                                              | [gabrielbdsm](https://github.com/gabrielbdsm) |
-| Hátilan Caio Alves Fontes                                                                 | [Hatilancaio](https://github.com/Hatilancaio) |
-| Gustavo Gonzaga                                                          | [uGonzaguinha](https://github.com/uGonzaguinha) |
-| João Pedro Ribeiro Dias Moraes                                               | [CaesarCrew](https://github.com/CaesarCrew) |
+| Nome                                                                                | Github                                            |
+|-------------------------------------------------------------------------------------|---------------------------------------------------|
+| Breno Borges                                                                        | [Brenoborgesbr](https://github.com/Brenoborgesbr) |
+| Gabriel Barbosa dos Santos Martiliano                                               | [gabrielbdsm](https://github.com/gabrielbdsm)     |
+| Hátilan Caio Alves Fontes                                                           | [Hatilancaio](https://github.com/Hatilancaio)     |
+| Gustavo Gonzaga  dos Santos                                                         | [uGonzaguinha](https://github.com/uGonzaguinha)   |
+| João Pedro Ribeiro Dias Moraes                                                      | [CaesarCrew](https://github.com/CaesarCrew)       |
 | [Link do repositório](https://github.com/CaesarCrew/Eng_Soft-Grupo1) |
 
 ## Grupo 2:
