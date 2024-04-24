@@ -57,12 +57,12 @@ O projeto BarberBooker é uma plataforma online projetada para simplificar o age
 
 | Nome                                                                                | Github                                        |
 |-------------------------------------------------------------------------------------|-----------------------------------------------|
-| João Gabriel Alves de Souza                                                    | [Carecovisk](https://github.com/Carecovisk) |
-| Murilo Rodrigues Perira                                                              | [murilortu](https://github.com/murilortu) |
-| Eliézer Alencar Moreira                                                                | [Liezy](https://github.com/Liezy)       |
-| Daniel Reis Aruda Sales                                                          | [Danielpyreis](https://github.com/Danielpyreis)       |
-| Matheus Moretti Cabral                                                          | [MMorettiC](https://github.com/MMorettiC)       |
-| [Link do repositório](https://github.com/murilortu/BarberBooker.git) |                                               |
+| João Victor Ribeiro Santos                                                          | [Carecovisk](https://github.com/Carecovisk)   |
+| Murilo Rodrigues Perira                                                             | [murilortu](https://github.com/murilortu)     |
+| Eliézer Alencar Moreira                                                             | [Liezy](https://github.com/Liezy)             |
+| Daniel Reis Aruda Sales                                                             | [Danielpyreis](https://github.com/Danielpyreis)|
+| Matheus Moretti Cabral                                                              | [MMorettiC](https://github.com/MMorettiC)     |
+| [Link do repositório](https://github.com/murilortu/BarberBooker.git) |                                                              |
 
 
 ## Grupo 5:
