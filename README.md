@@ -41,13 +41,15 @@ O projeto "TechFit Academy" visa disponibilizar aos usuários acesso aos serviç
 
 <br>
 
-| Nome                                                                                | Github                                        |
-|-------------------------------------------------------------------------------------|-----------------------------------------------|
-| Daniel Barbosa de Assis Costa                                                       | [assisDaniel](https://github.com/assisDaniel) |
-| Danilo Oliveira Maciel                                                              | [danmaciel23](https://github.com/danmaciel23) |
-| Pablo Pereira Brito                                                                 | [httpablo](https://github.com/httpablo)       |
-| Tarciso Filho Miranda Dias                                                          | [tarcisof](https://github.com/tarcisof)       |
-| [Link do repositório](https://github.com/assisDaniel/ES-2024_1-TechFit-Academy.git) |                                               |
+| Nome                                                                                                     | Github                                        |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Daniel Barbosa de Assis Costa                                                                            | [assisDaniel](https://github.com/assisDaniel) |
+| Danilo Oliveira Maciel                                                                                   | [danmaciel23](https://github.com/danmaciel23) |
+| Pablo Pereira Brito                                                                                      | [httpablo](https://github.com/httpablo)       |
+| Tarciso Filho Miranda Dias                                                                               | [tarcisof](https://github.com/tarcisof)       |
+| [Apresentação Final](Apresenta%C3%A7%C3%B5es/Grupo%203/TechFit%20-%20Apresenta%C3%A7%C3%A3o%20Final.pdf) |                                               |
+| [Link do repositório](https://github.com/assisDaniel/ES-2024_1-TechFit-Academy.git)                      |                                               |
+| [Link da Landing Page](https://httpablo.github.io/landing-page-techFit/)                                                                                 |                                               |
 
 ## Grupo 4:
 
