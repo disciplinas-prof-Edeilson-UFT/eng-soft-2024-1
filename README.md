@@ -33,7 +33,9 @@ O projeto Ebook Wizard é uma plataforma de comércio eletrônico projetada para
 | Almir Daniel Melo Coelho                                                                | [ad-melo](https://github.com/ad-melo)       |
 | Vinicius Wanderley Arruda                                                          | [ViiniDev](https://github.com/ViiniDev)       |
 | Vinicius Gabriel da Silva Santos                                                          | [viniciuS2S2](https://github.com/viniciuS2S2)       |
-| [Link do repositório](https://github.com/ViiniDev/E_Book_Wizard) |                                               |            
+| [Link do Repositório](https://github.com/ViiniDev/E_Book_Wizard) |                                               |            
+| [Link da Landing Page](https://viinidev.github.io/E_Book_Wizard/) |                                               |            
+| [Link da Apresentação Final](./Apresentações/Grupo%202/apresentacao.pdf) |                                               |            
 ## Grupo 3:
 
 #### Descrição do produto:
