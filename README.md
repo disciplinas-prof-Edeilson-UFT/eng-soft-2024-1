@@ -96,8 +96,9 @@ O PostMe é uma plataforma inovadora que permite aos usuários expressarem-se li
 |Nome|Github|
 |---|---|
 |Caio Christhian Lopes Silva|[Caio Christhian](https://github.com/CaioChristhian)|
-|Cayke Daniel Pereira Veras|[Cayke Daniel](https://github.com/cayke1)|
 |Henrique Noronha Fernandes|[Henrique Noronha](https://github.com/henrique-noronha)|
 |Eduardo Henrique Coelho Ramos|[Eduardo Henrique](https://github.com/KiwiProgamador)|
-|Ykaro Silva|[Ykaro Silva](https://github.com/ykarosilva)|
-[Link do repositório](https://github.com/CaioChristhian/ES-2024_1-PostMe)|
+|[Link do repositório](https://github.com/CaioChristhian/ES-2024_1-PostMe)|
+|[Link do Vídeo promocional](https://youtube.com/shorts/Tm119kF0Wig?feature=share)|
+|[Link da Landing Page](https://caiochristhian.github.io/LandinPagePostMe/)|
+|[Apresentação Final](./Apresentações/Grupo%206/Post%20Me%20-%20Apresentação%20Final%20.pdf)|
