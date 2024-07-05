@@ -69,7 +69,11 @@ O projeto BarberBooker é uma plataforma online projetada para simplificar o age
 | Eliézer Alencar Moreira                                                             | [Liezy](https://github.com/Liezy)             |
 | Daniel Reis Aruda Sales                                                             | [Danielpyreis](https://github.com/Danielpyreis)|
 | Matheus Moretti Cabral                                                              | [MMorettiC](https://github.com/MMorettiC)     |
-| [Link do repositório](https://github.com/murilortu/BarberBooker.git) |                                                              |
+| [Link do Repositório](https://github.com/murilortu/BarberBooker.git) |   
+| [Link do Anúncio](https://www.youtube.com/watch?v=HsIrkEjguDg)     |
+| [Link da Landing Page](https://liezy.github.io/barberbooker-landingpage/)
+| [Link da Apresentação Final](https://prezi.com/view/exbzM12cF34DoKne34OV/)|  
+
 
 
 ## Grupo 5:
