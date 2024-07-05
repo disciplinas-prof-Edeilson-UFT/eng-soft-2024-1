@@ -19,6 +19,8 @@ A HealthConnect, é um portal personalizado para atendimento médico conveniente
 | Gustavo Gonzaga  dos Santos                                                         | [uGonzaguinha](https://github.com/uGonzaguinha)   |
 | João Pedro Ribeiro Dias Moraes                                                      | [CaesarCrew](https://github.com/CaesarCrew)       |
 | [Link do repositório](https://github.com/CaesarCrew/Eng_Soft-Grupo1) |
+| [Link do Anúncio](https://youtu.be/KLNgHpV8U4M)
+| [Link da Apresentação Final](https://www.canva.com/design/DAGJiVc1y1o/0kGO4WlvO5p10yqCn1OaxQ/edit?utm_content=DAGJiVc1y1o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Grupo 2:
 
